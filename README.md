@@ -4,6 +4,9 @@ This is an official pytorch implementation of "DMH-CL: Dynamic Model Hardness ba
 
 ## Visualization on COCO val2017 dataset
 ![](https://github.com/BT-C/DMH-CL/blob/main/visualization/confused_vis.png)
+## Results on COCO val2017 dataset
+![](https://github.com/BT-C/DMH-CL/blob/main/visualization/coco_val_table.png)
+
 
 # Environment
 The code is developed based on the [MMPose Project](https://github.com/open-mmlab/mmpose). NVIDIA GPUs are needed. The code is developed and tested using 8 NVIDIA RTX GPU cards. Other platforms or GPU cards are not fully tested.
